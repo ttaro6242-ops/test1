@@ -3,6 +3,8 @@ export const login = () => {
         <div>
             <div>login</div>
             <input></input>
+            <input></input>
+            <input></input>
         </div>
         
     )
